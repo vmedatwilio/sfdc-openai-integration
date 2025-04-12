@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.0",
+    "fuse.js": "^7.1.0",
+    "jsforce": "^3.7.0",
+    "node-cache": "^5.1.2",
+    "openai": "^4.91.1",
+    "path": "^0.12.7",
+    "pluralize": "^8.0.0",
+    "querystring": "^0.2.1"
+  }
+}
