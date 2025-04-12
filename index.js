@@ -65,6 +65,7 @@ async function runAssistant(userPrompt) {
   console.log(response?.content?.[0]?.text?.value || 'No response.');
 }
 
+const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
